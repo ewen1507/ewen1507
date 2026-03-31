@@ -39,12 +39,6 @@ Main features:
 - Docker cleanup module
 - system monitoring daemon architecture
 
-## Featured repositories
-
-[![Griffon](https://github-readme-stats.vercel.app/api/pin/?username=ewen1507&repo=griffon&theme=tokyonight)](https://github.com/TON_USERNAME/griffon)
-
-[![AREA](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=area&theme=tokyonight)](https://github.com/ewen1507/area)
-
 ---
 
 ## Tech stack
@@ -65,6 +59,8 @@ TypeScript • NestJS • React • PostgreSQL
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ewen1507&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1507&layout=compact&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ewen1507/ewen1507/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ewen1507/ewen1507/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ewen1507/ewen1507/output/pacman-contribution-graph.svg">
+</picture>
