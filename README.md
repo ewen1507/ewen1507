@@ -2,9 +2,19 @@
 
 ## 👨‍💻 About me
 Cybersecurity student at Epitech  
-Currently exchange student at Dankook University (South Korea 🇰🇷)  
-Rust / C developer focused on Linux security tools  
-Freelance Fullstack Developer on Malt
+Currently exchange student at Dankook University, South Korea 🇰🇷  
+
+System-level developer specialized in:
+
+• C / C++ native software  
+• Rust security tooling on Linux  
+• daemon architecture & plugin systems  
+• IPC, low-level performance tools, system monitoring  
+
+Main project:
+Griffon — modular Linux security & monitoring platform written in Rust
+
+Also working as Freelance Developer on Malt
 
 📫 **Reach out to Me:**
 <p>
