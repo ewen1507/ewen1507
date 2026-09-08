@@ -5,13 +5,15 @@ Software engineering student at EPITECH, focused on systems programming, Linux a
 
 I primarily work with C/C++, Rust, Python and Linux, with hands-on experience building low-level software, security tools and modular architectures.
 
-🔧 Areas of interest
-C / C++ systems programming
-Rust development & security tooling
-Linux daemons & system internals
-IPC, Unix sockets & process monitoring
-Modular architectures & plugin systems
-Performance analysis & system tooling
+🔧 Areas of interest:
+
+- C / C++ systems programming
+- Rust development & security tooling
+- Linux daemons & system internals
+- IPC, Unix sockets & process monitoring
+- Modular architectures & plugin systems
+- Performance analysis & system tooling
+
 🚀 Main project
 
 GriffonAV — A modular Linux security platform written in Rust, featuring a daemon architecture, plugin system, CLI, GUI and system monitoring capabilities.
