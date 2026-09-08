@@ -1,20 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hi,%20Everyone!%20⚡&fontSize=70&fontColor=CCCCCC)
 
 ## 👨‍💻 About me
-Cybersecurity student at Epitech  
-Currently exchange student at Dankook University, South Korea 🇰🇷  
+Software engineering student at EPITECH, focused on systems programming, Linux and software security.
 
-System-level developer specialized in:
+I primarily work with C/C++, Rust, Python and Linux, with hands-on experience building low-level software, security tools and modular architectures.
 
-• C / C++ native software  
-• Rust security tooling on Linux  
-• daemon architecture & plugin systems  
-• IPC, low-level performance tools, system monitoring  
+🔧 Areas of interest
+C / C++ systems programming
+Rust development & security tooling
+Linux daemons & system internals
+IPC, Unix sockets & process monitoring
+Modular architectures & plugin systems
+Performance analysis & system tooling
+🚀 Main project
 
-Main project:
-Griffon — modular Linux security & monitoring platform written in Rust
+GriffonAV — A modular Linux security platform written in Rust, featuring a daemon architecture, plugin system, CLI, GUI and system monitoring capabilities.
 
-Also working as Freelance Developer on Malt
+Also working as a Freelance Developer on Malt, developing software solutions for clients.
 
 📫 **Reach out to Me:**
 <p>
